@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/larazach/travel-site#readme",
   "dependencies": {
+    "gulp": "^4.0.2",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "watch": "^0.12.0"
